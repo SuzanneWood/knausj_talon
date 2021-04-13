@@ -1,5 +1,7 @@
 # knausj_talon
 
+_Fork of [knausj_talon](https://github.com/knausj85/knausj_talon) - adding alternative formulations of commands, e.g. for better microphone response or for a more memorable phrase_
+
 Talon configs for Mac, Windows, and Linux. Very much in progress. This is also intended to work with both Dragon Naturally Speaking and wav2letter.
 
 Notes: 
